@@ -1,15 +1,15 @@
-## cpp apps
+## Cpp Apps
 
-### algorithms
+### Algorithms
 
-#### graphs
+#### Graphs
 
-#### dynamic programming
+#### Dynamic Programming
 
-#### hashing
+#### Hashing
 
-### plotting
+### Plotting
 
-### unreal engine
+### Unreal Engine
 
-#### simulators
+#### Simulators
